@@ -1,6 +1,22 @@
-# Ptah Engine
+# Ptah Engine | 普塔引擎
 
 <img src="logo.svg" width="512" alt="Ptah Engine logo">
+
+普塔引擎（Ptah Engine）是Godot Engine的派生。旨在优化用户体验（尤其是企业用户与中文用户的体验），使任何人都可以随心所欲地在普塔中创造。
+
+## 路线图
+
+我们将会进行以下工作：
+
+- [ ] 全面汉化
+- [ ] 使用xmake而不是CMake
+- [ ] 支持正在开发阶段的ZSharp与Leibniz框架
+- [ ] 支持零代码编程
+- [ ] 在各环节进行优化，提升性能
+- [ ] 必要时重构部分模块
+- [ ] 支持在游戏中使用高性能Web应用控件
+- [ ] 支持.NET8与.NET9
+- [ ] 支持LLJIT
 
 ## 2D and 3D cross-platform game engine
 
@@ -68,7 +84,3 @@ There are also a number of other
 provided by the community, such as text and video tutorials, demos, etc.
 Consult the [community channels](https://godotengine.org/community)
 for more information.
-
-[![Code Triagers Badge](https://www.codetriage.com/godotengine/godot/badges/users.svg)](https://www.codetriage.com/godotengine/godot)
-[![Translate on Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
-[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot)](https://www.tickgit.com/browse?repo=github.com/godotengine/godot)
