@@ -1,8 +1,8 @@
-# Godot Engine
+# Ptah Engine
 
 <p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
+  <a href="https://ptah.franj.top">
+    <img src="logo.svg" width="400" alt="Ptah Engine logo">
   </a>
 </p>
 
