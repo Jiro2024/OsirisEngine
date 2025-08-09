@@ -1,10 +1,6 @@
 # Ptah Engine
 
-<p align="center">
-  <a href="https://ptah.franj.top">
-    <img src="logo.svg" width="400" alt="Ptah Engine logo">
-  </a>
-</p>
+<img src="logo.svg" width="512" alt="Ptah Engine logo">
 
 ## 2D and 3D cross-platform game engine
 
